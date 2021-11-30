@@ -2,7 +2,7 @@
 
 Nuestra dirección de GitHub para este repositorio es la siguiente: [GitHub] (https://github.com/blancabalmori/PingPong.git)
 
-Hemos seguido los pasos, y hemos conseguido programar el famoso juego del ping pong creado en 1972
+Hemos seguido los 9 pasos,al igual que hemos creado issues con milestones tanto con labels y hemos conseguido programar el famoso juego del ping pong creado en 1958 
 
 ```# pong_1_2.py: Clase PelotaPong
 
